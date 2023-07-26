@@ -1,0 +1,1 @@
+DELETE FROM testdb.user_info WHERE gender != 'Male' AND gender != 'Female';

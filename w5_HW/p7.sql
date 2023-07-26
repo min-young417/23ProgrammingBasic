@@ -1,0 +1,1 @@
+UPDATE testdb.user_info SET age = 20 WHERE id < 10;

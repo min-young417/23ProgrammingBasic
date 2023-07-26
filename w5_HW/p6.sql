@@ -1,0 +1,1 @@
+INSERT INTO user_info (id, name, email, gender, age) VALUES (501, 'Kim Min Young', 'nonamed1021@naver.com', 'Female', 22);
